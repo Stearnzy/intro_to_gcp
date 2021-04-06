@@ -1,24 +1,3 @@
-# README
+# Intro to GCP with Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is following the GCP with Rails tutorial found [here](https://cloud.google.com/ruby/rails/appengine).  The intention behind starting this project is to get introductory practice with the Google Cloud Platform.
